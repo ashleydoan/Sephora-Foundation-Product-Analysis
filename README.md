@@ -128,7 +128,3 @@ The analysis focused on:
 - **Popularity** is highly predictable using reviews and ratings.  
 - Sephora and stakeholders should balance **brand reputation**, **ethical practices**, and **consumer inclusivity**.  
 
----
-
-## 📂 Repository Structure  
-
