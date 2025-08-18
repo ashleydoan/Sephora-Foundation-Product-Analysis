@@ -22,7 +22,7 @@ The analysis focused on:
 
 1. **Data Retrieval**  
    - Scraped JSON product information from Sephora’s foundation product pages.  
-   - Compiled **262 observations** across **11 variables**.  
+
 
 2. **Data Cleaning**  
    - Filtered only products with “foundation” in the name.  
